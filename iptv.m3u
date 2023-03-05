@@ -39,6 +39,8 @@ http://10.10.1.77:7777/rtp/239.93.0.103:5140
 http://10.10.1.77:7777/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://10.10.1.77:7777/rtp/239.93.0.92:5140
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-4K 超清
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
@@ -49,10 +51,24 @@ http://10.10.1.77:7777/rtp/239.93.42.50:5140
 http://10.10.1.77:7777/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://10.10.1.77:7777/rtp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港澳台",星空卫视
 http://10.10.1.77:7777/rtp/239.93.0.156:2193
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",V音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Channel V
 http://10.10.1.77:7777/rtp/239.93.0.157:2194
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",VIUTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+https://pull-l3-cny.douyincdn.com/live/9adf9e67fc8e73622170edd8966abdc6.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻台
+https://pull-l3-cny.douyincdn.com/live/f83f07f68eb799fdeb4c7084093ed0fe.flv?time=1678002039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HOYTV
+https://pull-l3-cny.douyincdn.com/live/a17867b4baa5c3a2c53d474cfdb40531.flv?time=1678002187
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",亲子趣学4K
@@ -141,7 +157,7 @@ http://10.10.1.77:7777/rtp/239.93.42.43:5140
 http://10.10.1.77:7777/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://10.10.1.77:7777/rtp/239.93.42.58:5140
-#EXTINF:-1 tvg-id="38" tvg-name="山东教育卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东教育卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://10.10.1.77:7777/rtp/239.93.1.196:5140
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.42:5140
@@ -211,6 +227,8 @@ http://10.10.1.77:7777/rtp/239.93.42.30:5140
 http://10.10.1.77:7777/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 http://10.10.1.77:7777/rtp/239.93.0.130:5140
+#EXTINF:-1 tvg-id="" tvg-name="绵阳公共" tvg-logo="" group-title="四川",绵阳公共
+http://10.10.1.77:7777/rtp/239.93.1.59:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卡通",嘉佳卡通
 http://10.10.1.77:7777/rtp/239.93.0.246:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卡通",卡酷动画
@@ -235,7 +253,7 @@ http://10.10.1.77:7777/rtp/239.93.0.94:5140
 http://10.10.1.77:7777/rtp/239.93.1.189:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",熊猫影院高清
 http://10.10.1.77:7777/rtp/239.93.0.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",睛彩四川
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",睛彩四川
 http://10.10.1.77:7777/rtp/239.93.0.126:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",成都体育高清
 http://10.10.1.77:7777/rtp/239.93.0.224:1281
