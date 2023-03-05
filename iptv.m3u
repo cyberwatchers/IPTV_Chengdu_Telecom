@@ -59,6 +59,8 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",VIUTV
@@ -163,13 +165,13 @@ http://10.10.1.77:7777/rtp/239.93.1.102:5140
 http://10.10.1.77:7777/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",SCTV-5高清
 http://10.10.1.77:7777/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="2058" tvg-name="SCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="四川",SCTV-6高清
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="四川",SCTV-6高清
 http://10.10.1.77:7777/rtp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-7高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-7高清
 http://10.10.1.77:7777/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://10.10.1.77:7777/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="" tvg-name="四川乡村高清" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv1.png" group-title="四川",四川乡村高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv1.png" group-title="四川",四川乡村高清
 http://10.10.1.77:7777/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.16:5140
@@ -221,7 +223,7 @@ http://10.10.1.77:7777/rtp/239.93.42.30:5140
 http://10.10.1.77:7777/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 http://10.10.1.77:7777/rtp/239.93.0.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="绵阳公共" tvg-logo="" group-title="四川",绵阳公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",绵阳公共
 http://10.10.1.77:7777/rtp/239.93.1.59:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卡通",嘉佳卡通
 http://10.10.1.77:7777/rtp/239.93.0.246:5140
