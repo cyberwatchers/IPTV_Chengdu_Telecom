@@ -63,12 +63,6 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",VIUTV
 http://r.jdshipin.com/vSJvl
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-https://pull-l3-cny.douyincdn.com/live/9adf9e67fc8e73622170edd8966abdc6.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻台
-https://pull-l3-cny.douyincdn.com/live/f83f07f68eb799fdeb4c7084093ed0fe.flv?time=1678002039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HOYTV
-https://pull-l3-cny.douyincdn.com/live/a17867b4baa5c3a2c53d474cfdb40531.flv?time=1678002187
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",亲子趣学4K
