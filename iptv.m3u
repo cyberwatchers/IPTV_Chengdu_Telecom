@@ -173,6 +173,8 @@ http://10.10.1.77:7777/rtp/239.93.0.219:5140
 http://10.10.1.77:7777/rtp/239.93.42.44:5140
 #EXTINF:-1,tvg-id="四川乡村高清" tvg-name="四川乡村高清" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村高清
 http://10.10.1.77:7777/rtp/239.93.0.52:5140
+#EXTINF:-1,tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="影视",峨眉电影高清
+http://10.10.1.77:7777/rtp/239.93.0.252:5140
 #EXTINF:-1,tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="四川",CDTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.16:5140
 #EXTINF:-1,tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="四川",CDTV-2
@@ -195,8 +197,6 @@ http://10.10.1.77:7777/rtp/239.93.0.113:5140
 http://10.10.1.77:7777/rtp/239.93.0.50:5140
 #EXTINF:-1,tvg-id="绵阳公共" tvg-name="绵阳公共" tvg-logo="https://epg.112114.xyz/logo/绵阳公共.png" group-title="四川",绵阳公共
 http://10.10.1.77:7777/rtp/239.93.1.59:5140
-#EXTINF:-1,tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="影视",峨眉电影高清
-http://10.10.1.77:7777/rtp/239.93.0.252:5140
 #EXTINF:-1,tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="影视",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
 #EXTINF:-1,tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
