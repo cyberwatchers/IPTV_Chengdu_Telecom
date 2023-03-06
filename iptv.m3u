@@ -165,7 +165,7 @@ http://10.10.1.77:7777/rtp/239.93.1.102:5140
 http://10.10.1.77:7777/rtp/239.93.0.47:5140
 #EXTINF:-1,tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://epg.112114.xyz/logo/SCTV5.png" group-title="四川",SCTV-5高清
 http://10.10.1.77:7777/rtp/239.93.0.166:5140
-#EXTINF:-1,tvg-id="SCTV-6高清" tvg-name="SCTV-6高清" tvg-logo="https://epg.112114.xyz/logo/SCTV6.png" group-title="四川",SCTV-6高清
+#EXTINF:-1,tvg-id="SCTV-星空购物" tvg-name="SCTV-星空购物" tvg-logo="https://epg.112114.xyz/logo/SCTV星空购物.png" group-title="其他",SCTV-星空购物
 http://10.10.1.77:7777/rtp/239.93.1.144:5140
 #EXTINF:-1,tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://epg.112114.xyz/logo/SCTV7.png" group-title="四川",SCTV-7高清
 http://10.10.1.77:7777/rtp/239.93.0.219:5140
