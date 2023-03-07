@@ -47,24 +47,6 @@ http://10.10.1.77:7777/rtp/239.93.0.104:5140
 http://10.10.1.77:7777/rtp/239.93.42.49:5140
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://10.10.1.77:7777/rtp/239.93.42.50:5140
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
-http://10.10.1.77:7777/rtp/239.93.0.162:2192
-#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
-http://10.10.1.77:7777/rtp/239.93.0.118:2191
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://10.10.1.77:7777/rtp/239.93.0.156:2193
-#EXTINF:-1,tvg-id="Channel V" tvg-name="Channel V" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="港澳台",Channel V
-http://10.10.1.77:7777/rtp/239.93.0.157:2194
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1,tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://epg.112114.xyz/logo/华丽台.png" group-title="港澳台",华丽台
-http://r.jdshipin.com/thuYX
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV
-http://r.jdshipin.com/vSJvl
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="亲子趣学4K" tvg-name="亲子趣学4K" tvg-logo="https://epg.112114.xyz/logo/亲子趣学4K.png" group-title="4K",亲子趣学4K
@@ -197,6 +179,24 @@ http://10.10.1.77:7777/rtp/239.93.0.113:5140
 http://10.10.1.77:7777/rtp/239.93.0.50:5140
 #EXTINF:-1,tvg-id="绵阳公共" tvg-name="绵阳公共" tvg-logo="https://epg.112114.xyz/logo/绵阳公共.png" group-title="四川",绵阳公共
 http://10.10.1.77:7777/rtp/239.93.1.59:5140
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
+http://10.10.1.77:7777/rtp/239.93.0.162:2192
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
+http://10.10.1.77:7777/rtp/239.93.0.118:2191
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
+http://10.10.1.77:7777/rtp/239.93.0.156:2193
+#EXTINF:-1,tvg-id="Channel V" tvg-name="Channel V" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="港澳台",Channel V
+http://10.10.1.77:7777/rtp/239.93.0.157:2194
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1,tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://epg.112114.xyz/logo/华丽台.png" group-title="港澳台",华丽台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV
+http://r.jdshipin.com/vSJvl
 #EXTINF:-1,tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="影视",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
 #EXTINF:-1,tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
